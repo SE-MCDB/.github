@@ -10,6 +10,9 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+- **doc: [repo](https://github.com/SE-mcdb/SE2022_doc)**
+- source: [repo](https://github.com/SE-mcdb/SE2022_source)
+- backend: [repo](https://github.com/SE-mcdb/SE2022_Backend)
 
 |         | 🌈 REPO                                                       | 🍿 DEPLOY                                        | 🧙URL  |
 | ------- | ---- | ------- | ------- |
