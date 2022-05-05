@@ -10,13 +10,15 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+<img src="https://gitlab.com/imingx/picgo/raw/main/2022/202205051640484.png" align="right" width="20%">
+
 you can explore below: 
 
 - **doc: [repo](https://github.com/SE-mcdb/SE2022_doc)**
 - source: [repo](https://github.com/SE-mcdb/SE2022_source)
 - backend: [repo](https://github.com/SE-mcdb/SE2022_Backend)
 
-<img src="https://gitlab.com/imingx/picgo/raw/main/2022/202205051640484.png" align="right" width="20%">
 
 |         | 🌈 REPO                                                       | 🍿 DEPLOY                                        | 🧙URL  |
 | ------- | ---- | ------- | ------- |
