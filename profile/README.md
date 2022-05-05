@@ -16,6 +16,8 @@ you can explore below:
 - source: [repo](https://github.com/SE-mcdb/SE2022_source)
 - backend: [repo](https://github.com/SE-mcdb/SE2022_Backend)
 
+<img src="https://gitlab.com/imingx/picgo/raw/main/2022/202205051640484.png" align="right" width="20%">
+
 |         | 🌈 REPO                                                       | 🍿 DEPLOY                                        | 🧙URL  |
 | ------- | ---- | ------- | ------- |
 | uni-app |   [repo](https://github.com/SE-mcdb/SE2022_Frontend_App)   |   [App](https://github.com/SE-mcdb/App)   |- [`apk`](https://github.com/SE-mcdb/SE2022_Frontend_App/releases)<br/>- [`spoc.uno`](http://spoc.uno) |
