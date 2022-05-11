@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, there 👋
 
 <!--
 
@@ -12,6 +12,8 @@
 -->
 
 <img src="https://gitlab.com/imingx/picgo/raw/main/2022/202205051640484.png" align="right" width="20%">
+
+This is the `PaperDaily` Project
 
 you can explore below: 
 
