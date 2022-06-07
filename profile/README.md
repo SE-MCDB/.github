@@ -17,9 +17,9 @@ This is the `PaperDaily` Project.
 
 you can explore below: 
 
-- **Documents: [repo](https://github.com/SE-mcdb/SE2022_doc)**
-- Resources: [repo](https://github.com/SE-mcdb/SE2022_source)
-- Backend Code: [repo](https://github.com/SE-mcdb/SE2022_Backend)
+- 📄 **Documents: [repo](https://github.com/SE-mcdb/SE2022_doc)**
+- 🕊 Resources: [repo](https://github.com/SE-mcdb/SE2022_source)
+- 🐳 Backend Code: [repo](https://github.com/SE-mcdb/SE2022_Backend)
 
 | 🦋 FRONTEND |  🪹 CODE                                                     | 🍿 DEPLOYMENT                                        | 🔗 LINK  |
 | ------- | ---- | ------- | ------- |
