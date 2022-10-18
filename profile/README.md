@@ -27,6 +27,32 @@ you can explore below:
 | manager | [repo](https://github.com/SE-mcdb/SE2022_Frontend_Manager) | [Manager](https://github.com/SE-mcdb/Manager) | [`m.spoc.uno`](http://m.spoc.uno) |
 | web <em>(unused)</em>     | [repo](https://github.com/SE-mcdb/SE2022_Frontend_Web)     | [Web](https://github.com/SE-mcdb/Web) | ~[`w.spoc.uno`](http://w.spoc.uno)~ |
 
+
+## Account
+
+
+#### 华为云（课程）
+
+```
+CentOS
+
+'HOST': 122.9.14.73
+
+// 普通用户
+'USER': admin
+'PASSWORD': se-mcdb-o2e
+
+// 根用户
+'USER': root
+'PASSWORD': se-mcdb-o2e
+
+建议使用普通用户登录
+```
+
+
+
+
+
 <details> <summary><h6>Git Commit Guidelines</h6></summary>
 
 参见：[Angular提交信息规范](https://zj-git-guide.readthedocs.io/zh_CN/latest/message/Angular%E6%8F%90%E4%BA%A4%E4%BF%A1%E6%81%AF%E8%A7%84%E8%8C%83/)
