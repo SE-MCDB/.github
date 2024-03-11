@@ -53,7 +53,7 @@ CentOS
 
 
 
-<details> <summary><h6>Git Commit Guidelines</h6></summary>
+<details> <summary>Git Commit Guidelines</summary>
 
 参见：[Angular提交信息规范](https://zj-git-guide.readthedocs.io/zh_CN/latest/message/Angular%E6%8F%90%E4%BA%A4%E4%BF%A1%E6%81%AF%E8%A7%84%E8%8C%83/)
 
