@@ -33,6 +33,8 @@ you can explore below:
 
 #### 华为云（课程）
 
+<details> <summary> CentOS </summary>
+
 ```
 CentOS
 
@@ -41,14 +43,8 @@ CentOS
 // 普通用户
 'USER': admin
 'PASSWORD': se-mcdb-o2e
-
-// 根用户
-'USER': root
-'PASSWORD': se-mcdb-o2e
-
-建议使用普通用户登录
 ```
-
+</details>
 
 
 
